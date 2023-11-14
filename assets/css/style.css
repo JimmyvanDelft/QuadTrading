@@ -1557,7 +1557,7 @@ p {
   @media (max-width: 767px) {
     .lg-btn {
       font-size: 16px;
-      ine-height: 52px; } }
+      line-height: 52px; } }
 
 .el-btn {
   line-height: 80px !important;
@@ -2515,6 +2515,7 @@ p {
   padding-bottom: 130px; }
 
 .single-features {
+  height: 270px;
   padding: 40px 20px 52px;
   background-color: #fff; }
   .single-features .features-title-icon .features-title a {
