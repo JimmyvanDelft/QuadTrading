@@ -2541,14 +2541,14 @@ p {
         font-size: 36px;
         line-height: 45px; } }
     .single-features .features-title-icon .features-title a:hover {
-      color: #0067f4; }
+      color: #ae9b65; }
   .single-features .features-title-icon .features-icon {
     position: relative;
     display: inline-block; }
     .single-features .features-title-icon .features-icon i {
       font-size: 88px;
       line-height: 70px;
-      color: #0067f4;
+      color: #ae9b65;
       position: relative;
       z-index: 5; }
     .single-features .features-title-icon .features-icon .shape {
