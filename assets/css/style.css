@@ -2308,7 +2308,7 @@ p {
         .navbar-area .navbar .navbar-btn li a.solid {
           background-color: #fff;
           border-color: #fff;
-          color: #0067f4; }
+          color: #ae9b65; }
           .navbar-area .navbar .navbar-btn li a.solid:hover {
             background-color: transparent;
             color: #fff; }
@@ -2332,11 +2332,11 @@ p {
       color: #121212;
       opacity: 1; }
     .navbar-area.sticky .navbar .navbar-btn li a.light {
-      border-color: #0067f4;
-      color: #0067f4; }
+      border-color: #ae9b65;
+      color: #ae9b65; }
     .navbar-area.sticky .navbar .navbar-btn li a.solid {
-      border-color: #0067f4;
-      background-color: #0067f4;
+      border-color: #ae9b65;
+      background-color: #ae9b65;
       color: #fff; }
 
 /*===========================
