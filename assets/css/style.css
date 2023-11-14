@@ -3123,6 +3123,9 @@ p.form-message.success, p.form-message.error {
   background-color: #fc3832; }
 .contact-info .single-contact-info.contact-color-3 .contact-info-icon i {
   background-color: #005ad5; }
+.contact-info .single-contact-info.contact-color-4 .contact-info-icon i {
+  background-color: #4AEB67;
+}
 
 .contact-wrapper .contact-title {
   font-size: 32px;
