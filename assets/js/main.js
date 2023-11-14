@@ -15,10 +15,10 @@ $(function () {
         var scroll = $(window).scrollTop();
         if (scroll < 20) {
             $(".navbar-area").removeClass("sticky");
-            $(".navbar-area img").attr("src", "assets/images/lg_quad_trading.png");
+            $(".navbar-area img").attr("src", "logo_quad_trading/lg_fullwit.png");
         } else {
             $(".navbar-area").addClass("sticky");
-            $(".navbar-area img").attr("src", "assets/images/lg_quad_trading.png");
+            $(".navbar-area img").attr("src", "logo_quad_trading/lg_quad_trading.png");
         }
     });
 
