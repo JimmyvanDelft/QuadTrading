@@ -404,7 +404,7 @@ p {
   padding: 0 32px;
   font-size: 16px;
   line-height: 46px;
-  color: #0067f4;
+  color: #AE9B65;
   cursor: pointer;
   z-index: 5;
   -webkit-transition: all 0.4s ease-out 0s;
@@ -2610,9 +2610,9 @@ p {
     left: 0;
     width: 100%;
     height: 100%;
-    background: -webkit-linear-gradient(left, #AE9B65 30%, #000 100%);
-    background: -o-linear-gradient(left, #AE9B65 30%, #000 100%);
-    background: linear-gradient(to right, #AE9B65 30%, #000 100%);
+    background: -webkit-linear-gradient(left, #AE9B65 30%, #D4C29A 100%);
+    background: -o-linear-gradient(left, #AE9B65 30%, #D4C29A 100%);
+    background: linear-gradient(to right, #AE9B65 30%, #D4C29A 100%);    
     z-index: -1;
     opacity: 0;
     -webkit-transition: all 0.3s ease-out 0s;
