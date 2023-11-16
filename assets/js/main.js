@@ -13,7 +13,7 @@ $(function () {
 
     $(window).on('scroll', function (event) {
         var scroll = $(window).scrollTop();
-        if (scroll < 20) {
+        if (scroll < 5) {
             $(".navbar-area").removeClass("sticky");
             $(".navbar-area img").attr("src", "logo_quad_trading/lg_fullwit.png");
         } else {
